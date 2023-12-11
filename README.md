@@ -23,6 +23,7 @@ _________________
              
 <img width="357" alt="Screenshot 2023-12-11 at 5 22 55 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/ca4740ec-b4c3-4311-98b6-3aa71ac416fc">
 <img width="367" alt="Screenshot 2023-12-11 at 5 23 21 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/f037bd7e-98ce-4115-8862-fe926b637ed0">
+<img width="361" alt="Screenshot 2023-12-11 at 5 25 18 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/73df1094-2dd3-41a8-b152-444228215d32">
 
 
 _________________
