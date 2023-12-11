@@ -16,12 +16,14 @@ Key Features:
 
 1. Explore Chicago's Culinary Scene: Dive into the diverse and delectable world of Chicago's food scene with ChiVibe's Food tab. From iconic deep-dish pizzas to hidden gems in local neighborhoods, embark on a culinary journey that captures the city's rich gastronomic tapestry.
 
-# Simulation using iPhone 14 Pro Max
+# Sample Output
 
 _________________
 
              
-![app(3)](https://github.com/Wondamonstaa/ReelRift/assets/113752537/aab310a0-7009-41e5-8698-23d2ae575b2b)
+<img width="357" alt="Screenshot 2023-12-11 at 5 22 55 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/ca4740ec-b4c3-4311-98b6-3aa71ac416fc">
+<img width="367" alt="Screenshot 2023-12-11 at 5 23 21 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/f037bd7e-98ce-4115-8862-fe926b637ed0">
+
 
 _________________
 
@@ -30,8 +32,8 @@ _________________
 # Sample Output
 _________________
 
-<img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/9332d85b-bf3d-4a3b-8662-bf9308be2d94">
-<img width="516" alt="Screenshot 2023-12-11 at 2 46 09 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/8eaa4c3a-346e-4a83-887d-6a90b8f1d0ec">
+<img width="386" alt="Screenshot 2023-12-11 at 4 58 21 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/048f8526-e3cb-4f44-9e56-8ed06802746f">
+<img width="385" alt="Screenshot 2023-12-11 at 4 58 53 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/faff7bdf-627f-48ff-abfc-ae8edcc0b9de">
 
 _________________
 
@@ -40,8 +42,8 @@ _________________
 # Sample Output
 _________________
 
-<img width="486" alt="Screenshot 2023-12-11 at 2 46 41 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/88c91acd-719d-4acf-8fb0-5058691e3a20">
-<img width="480" alt="Screenshot 2023-12-11 at 2 45 43 PM" src="https://github.com/Wondamonstaa/ReelRift/assets/113752537/9332d85b-bf3d-4a3b-8662-bf9308be2d94">
+<img width="381" alt="Screenshot 2023-12-11 at 4 59 43 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/82b47331-dddc-4652-8778-fb2cb14bc911">
+<img width="381" alt="Screenshot 2023-12-11 at 4 59 59 PM" src="https://github.com/Wondamonstaa/ChiVibe/assets/113752537/633b1813-3644-4437-a191-4e4214e38e1a">
 
 _________________
 
